@@ -1,0 +1,4 @@
+1- installer les modules nécessaires - V
+2- creer un dossier routes: create,read,update,delete
+3- faire appel aux modules dans chaque fichier
+4- faire la methode 
